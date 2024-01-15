@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188098793596",
+    "project_id": "minchat-8ea90",
+    "storage_bucket": "minchat-8ea90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188098793596:android:ea7e5b95720db609df39f9",
+        "android_client_info": {
+          "package_name": "br.com.thomazdevelop.minimal_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LTMU9W_Vme7Wlm3olWwsT1FQ-wrY4FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
